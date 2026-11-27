@@ -1,6 +1,8 @@
 # PMPDiv-BCI: Ex ante Framework for Evaluating Bundled Crop Insurance with Diversified Cropping Systems 
 
-PMPDiv-BCI is a positive mathematical programming tool for simulating next gen bundled crop insurance products
+PMPDiv-BCI is a positive mathematical programming tool for simulating next gen bundled crop insurance products.
+
+The main model is in Bihar_PMP_Risk_v2.gms GAMS file.
 
 ![Visualization tool](PMP_framework.png)
 
