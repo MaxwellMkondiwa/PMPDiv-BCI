@@ -4,6 +4,8 @@ PMPDiv-BCI is a positive mathematical programming tool for simulating next gen b
 
 The main model is in Bihar_PMP_Risk_v2.gms GAMS file.
 
+The documentation file for the model is in PMPDiv-BCI.pdf. 
+
 ![Visualization tool](PMP_framework.png)
 
 
